@@ -1,0 +1,10 @@
+TOKEN SYSTEM
+
+c=1
+x=1
+while(c==1):
+  print("person",x,"come in")
+  x=x+1
+  c=int(input("continue 0/1")
+print("thankyou")
+  
